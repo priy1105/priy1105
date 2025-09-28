@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hii there 👋
 I'm Priyanshu, a final-year engineering student at NITK Surathkal focused on building reliable, full-stack infrastructure at the intersection of Finance and Technology (FinTech). I specialize in taking projects from concept to scalable deployment, with an emphasis on code quality and performance.
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma)](https://skillicons.dev)
