@@ -1,13 +1,14 @@
 ## Hii there 👋
 I'm Priyanshu, a final-year engineering student at NITK Surathkal focused on building reliable, full-stack infrastructure at the intersection of Finance and Technology (FinTech). I specialize in taking projects from concept to scalable deployment, with an emphasis on code quality and performance.
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="(https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma)](https://skillicons.dev)
   </a>
-</p>
+  </p>
+
+    <img src="(https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma" />
+
 
 <!--
 **priy1105/priy1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
