@@ -1,4 +1,6 @@
 ## Hi there 👋
+https://skillicons.dev/icons?i=js,ts,html,css,nodejs,py,tailwind,vue,nuxt,mongodb,prisma,docker,figma
+
 
 <!--
 **priy1105/priy1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
