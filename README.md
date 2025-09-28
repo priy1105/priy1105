@@ -3,6 +3,7 @@ I'm Priyanshu, a final-year engineering student at NITK Surathkal focused on bui
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="(https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma" />
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css,angular,nodejs,tailwind,mongodb,prisma,docker,figma)](https://skillicons.dev)
   </a>
   </p>
